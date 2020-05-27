@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreeGory</string>
+    <string name="storing_vegs">
+        <a href="http://oxygenpress.info/si-ti-ruajme-frutat-dhe-perimet/"> Si të ruajmë frutat dhe perimet? </a>
+    </string>
+    <string name="which_food_to_store">
+        <a href="https://agroweb.org/lajme/cilat-ushqime-duhen-ruajtur-patjeter-ne-frigorifer/"> Cilat ushqime duhen ruajtur në frigorifer? </a>
+    </string>
+</resources>
